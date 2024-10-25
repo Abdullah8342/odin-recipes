@@ -1,0 +1,46 @@
+*,
+*::before,
+*::after {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+div.main {
+    width: 700px;
+    margin:10px auto;
+}
+
+body.home div.home{
+    margin: 100px auto;
+}
+
+body.home {
+    background-color:gray;
+    opacity: 70%;
+}
+
+
+div.main.home {
+    color: white;
+    font-size: 18px;
+}
+div.main.home ul li a {
+    color: white;
+    font-size:18px;
+    font-weight: bold;
+}
+
+
+body.home {
+    background-image: url('../images/home-page.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+
+body.home {
+    background-color: rgba(224, 167, 207, 0.137);
+}

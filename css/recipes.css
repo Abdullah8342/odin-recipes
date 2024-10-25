@@ -1,0 +1,33 @@
+div.main div.top-bar {
+    background-color: gray;
+    padding: 5px;
+}
+
+div.main div.top-bar a {
+    color: white;
+    margin: 0px 5px;
+}
+
+div.main div.top-bar a:hover {
+    color:darkturquoise;
+}
+
+div.main img {
+    width: 500px;
+    height: auto;
+}
+
+div.main {
+    padding: 5px;
+}
+
+div.main h1,
+div.main h2,
+div.main p {
+    margin: 5px 0px;
+}
+
+div.main ul li,
+div.main ol li {
+    margin: 5px 0px;
+}
